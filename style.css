@@ -57,8 +57,11 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
 .h3_footer{
   text-align: center;
-  color: gold;
-  background-color: aquamarine;
+  color: rgb(6, 27, 121);
+  background-color: gold;
+  padding: 1em;
+  
 }
