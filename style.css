@@ -61,6 +61,19 @@ form {
   text-align: center;
   color: gold;
   background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: end;
   padding: 2rem;
+  height: 80px;
+  transition: all 0.5s;
+}
+
+.h3_footer:hover{
+  background-color: #fff;
+  color: #2E282A;
+  align-items: center;
+  cursor: pointer;
+  height: 100px;
 }
 
